@@ -1,4 +1,3 @@
-aws-glacier-backup
-==================
+# aws-glacier-backup
 
-first node.js project
+a [Sails](http://sailsjs.org) application
